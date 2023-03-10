@@ -10,7 +10,7 @@ I'm a highschool kid who's grades suffer because i build circuits and write code
 
 Most of my projects here started cause i needed something to work on instead of school.
 
-The most recent ones are projects ive had on my desktop and never published or finished, so i took some time to do both. (again, in neglect of school ;))
+The most recent ones are projects ive had on my desktop and never published or finished, so i took some time to do both. (again, in neglect of school 😉:)
 
 ```json
 {
