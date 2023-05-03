@@ -34,6 +34,7 @@ The most recent ones are projects ive had on my desktop and never published or f
             "working on": [
                 "Java",
                 "Go",
+                "DuckyScript 😝"
             ]
         }
     }
