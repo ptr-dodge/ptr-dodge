@@ -6,7 +6,9 @@
 <br>
 
 Hiya!
+
 I'm Peter Dodge
+
 Code enthusiast, Skateboarder, and technical craftsman.
 
 Most of my projects here began in highschool, and shows much of my progress in learning to code.
